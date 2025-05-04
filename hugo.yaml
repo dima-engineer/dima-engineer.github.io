@@ -1,0 +1,30 @@
+baseURL: https://ditrich.dev/
+enableEmoji: true
+pygmentsUseClasses: true
+pagination:
+  disableAliases: false
+  pagerSize: 5
+params:
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowPageNums: true
+  ShowToc: true
+  homeInfoParams:
+    Title: "Ditrich Dev"
+    Content: >
+      👋 Welcome to my blog!
+
+      - Here I will be sharing with you some useful and interesting information about engineering.
+  socialIcons:
+    - name: github
+      url: "https://github.com/dima-engineer"
+languageCode: en-us
+title: Ditrich DEV
+theme: papermod
+homeInfoParams:
+  title: Hi there wave  
+  content: Can be Info, links, about...
+socialIcons:
+  - name: "github"
+    url: "https://github.com/dima-engineer"
