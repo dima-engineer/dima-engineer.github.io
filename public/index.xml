@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Ditrich DEV</title>
-    <link>https://ditrich.dev/</link>
-    <description>Recent content on Ditrich DEV</description>
-    <generator>Hugo -- 0.147.0</generator>
-    <language>en-us</language>
-    <atom:link href="https://ditrich.dev/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Ditrich DEV</title><link>https://ditrich.dev/</link><description>Recent content on Ditrich DEV</description><generator>Hugo -- 0.164.0</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://ditrich.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Projects</title><link>https://ditrich.dev/projects/</link><pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate><guid>https://ditrich.dev/projects/</guid><description>&lt;p&gt;A selection of my public repositories. See the full list on &lt;a href="https://github.com/dima-engineer?tab=repositories"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id="pytest-reporter"&gt;&lt;a href="https://github.com/dima-engineer/pytest-reporter"&gt;pytest-reporter&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;GitHub Action that runs Python tests with &lt;code&gt;pytest&lt;/code&gt; and posts a coverage table as a PR comment. Supports &lt;code&gt;pip&lt;/code&gt;, &lt;code&gt;poetry&lt;/code&gt;, &lt;code&gt;pipenv&lt;/code&gt;, and &lt;code&gt;uv&lt;/code&gt;.
+&lt;code&gt;Shell&lt;/code&gt; · ⭐ 5&lt;/p&gt;
+&lt;h3 id="pydantic-secrets"&gt;&lt;a href="https://github.com/dima-engineer/pydantic-secrets"&gt;pydantic-secrets&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Autoloads secrets into &lt;a href="https://docs.pydantic.dev/latest/concepts/pydantic_settings/"&gt;pydantic-settings&lt;/a&gt; from sources like Google Secret Manager or AWS Secrets Manager, with support for custom secret sources.
+&lt;code&gt;Python&lt;/code&gt; · ⭐ 2&lt;/p&gt;
+&lt;h3 id="hybrit-battery-diagnostic-tool"&gt;&lt;a href="https://github.com/dima-engineer/hybrit-battery-diagnostic-tool"&gt;hybrit-battery-diagnostic-tool&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;A visualisation tool for hybrid battery diagnostics.
+&lt;code&gt;TypeScript&lt;/code&gt;&lt;/p&gt;</description></item></channel></rss>

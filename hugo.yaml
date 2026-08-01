@@ -5,6 +5,8 @@ pagination:
   disableAliases: false
   pagerSize: 5
 params:
+  author: "Dmitry Marchuk"
+  hideAuthor: true
   ShowReadingTime: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
@@ -30,6 +32,12 @@ params:
 languageCode: en-us
 title: Ditrich DEV
 theme: papermod
+menu:
+  main:
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 10
 homeInfoParams:
   title: Hi there wave  
   content: Can be Info, links, about...
