@@ -1,12 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Ditrich DEV</title><link>https://ditrich.dev/</link><description>Recent content on Ditrich DEV</description><generator>Hugo -- 0.164.0</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://ditrich.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Projects</title><link>https://ditrich.dev/projects/</link><pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate><guid>https://ditrich.dev/projects/</guid><description>&lt;p&gt;A selection of my projects. See the full list of repositories on &lt;a href="https://github.com/dima-engineer?tab=repositories"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id="pet-projects"&gt;Pet Projects&lt;/h2&gt;
-&lt;h3 id="setbudgetapp"&gt;&lt;a href="https://setbudget.app"&gt;setbudget.app&lt;/a&gt;&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ditrich DEV</title>
+    <link>https://ditrich.dev/</link>
+    <description>Recent content on Ditrich DEV</description>
+    <generator>Hugo -- 0.164.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ditrich.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://ditrich.dev/projects/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://ditrich.dev/projects/</guid>
+      <description>&lt;p&gt;A selection of my projects. See the full list of repositories on &lt;a href=&#34;https://github.com/dima-engineer?tab=repositories&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;pet-projects&#34;&gt;Pet Projects&lt;/h2&gt;
+&lt;h3 id=&#34;setbudgetapp&#34;&gt;&lt;a href=&#34;https://setbudget.app&#34;&gt;setbudget.app&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Personal budget planning app for managing your budget plans, available as a mobile app.&lt;/p&gt;
-&lt;h3 id="invoicesditrichdev"&gt;&lt;a href="https://invoices.ditrich.dev"&gt;invoices.ditrich.dev&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;invoicesditrichdev&#34;&gt;&lt;a href=&#34;https://invoices.ditrich.dev&#34;&gt;invoices.ditrich.dev&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Invoice creation tool with support for submitting to KSeF, the Polish e-invoicing system.&lt;/p&gt;
-&lt;h3 id="hybrit-battery-diagnostic-tool"&gt;&lt;a href="https://github.com/dima-engineer/hybrit-battery-diagnostic-tool"&gt;hybrit-battery-diagnostic-tool&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;hybrit-battery-diagnostic-tool&#34;&gt;&lt;a href=&#34;https://github.com/dima-engineer/hybrit-battery-diagnostic-tool&#34;&gt;hybrit-battery-diagnostic-tool&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;A visualisation tool for hybrid battery diagnostics.
 &lt;code&gt;TypeScript&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id="automaticwateringsystem"&gt;&lt;a href="https://github.com/dima-engineer/AutomaticWateringSystem"&gt;AutomaticWateringSystem&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;automaticwateringsystem&#34;&gt;&lt;a href=&#34;https://github.com/dima-engineer/AutomaticWateringSystem&#34;&gt;AutomaticWateringSystem&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;ESP32-C3 firmware that reads soil moisture and automatically runs a USB water pump when the soil is dry. Built with ESP-IDF on a Super Mini board.
-&lt;code&gt;C&lt;/code&gt;&lt;/p&gt;</description></item></channel></rss>
+&lt;code&gt;C&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
